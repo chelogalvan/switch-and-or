@@ -29,7 +29,7 @@ namespace ejercicio_5
              }
              else 
              {
-                Console.WriteLine("No estan ordenados Fin....");
+                Console.WriteLine("No estan ordenados     Fin....");
              }
 
 
