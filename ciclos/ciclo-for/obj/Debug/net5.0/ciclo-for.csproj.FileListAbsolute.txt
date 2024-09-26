@@ -1,0 +1,16 @@
+C:\Users\kratorpp\Desktop\maxi-programa\switch-and-or\ciclos\ciclo-for\bin\Debug\net5.0\ciclo-for.exe
+C:\Users\kratorpp\Desktop\maxi-programa\switch-and-or\ciclos\ciclo-for\bin\Debug\net5.0\ciclo-for.deps.json
+C:\Users\kratorpp\Desktop\maxi-programa\switch-and-or\ciclos\ciclo-for\bin\Debug\net5.0\ciclo-for.runtimeconfig.json
+C:\Users\kratorpp\Desktop\maxi-programa\switch-and-or\ciclos\ciclo-for\bin\Debug\net5.0\ciclo-for.runtimeconfig.dev.json
+C:\Users\kratorpp\Desktop\maxi-programa\switch-and-or\ciclos\ciclo-for\bin\Debug\net5.0\ciclo-for.dll
+C:\Users\kratorpp\Desktop\maxi-programa\switch-and-or\ciclos\ciclo-for\bin\Debug\net5.0\ciclo-for.pdb
+C:\Users\kratorpp\Desktop\maxi-programa\switch-and-or\ciclos\ciclo-for\obj\Debug\net5.0\ciclo-for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kratorpp\Desktop\maxi-programa\switch-and-or\ciclos\ciclo-for\obj\Debug\net5.0\ciclo-for.AssemblyInfoInputs.cache
+C:\Users\kratorpp\Desktop\maxi-programa\switch-and-or\ciclos\ciclo-for\obj\Debug\net5.0\ciclo-for.AssemblyInfo.cs
+C:\Users\kratorpp\Desktop\maxi-programa\switch-and-or\ciclos\ciclo-for\obj\Debug\net5.0\ciclo-for.csproj.CoreCompileInputs.cache
+C:\Users\kratorpp\Desktop\maxi-programa\switch-and-or\ciclos\ciclo-for\obj\Debug\net5.0\ciclo-for.sourcelink.json
+C:\Users\kratorpp\Desktop\maxi-programa\switch-and-or\ciclos\ciclo-for\obj\Debug\net5.0\ciclo-for.dll
+C:\Users\kratorpp\Desktop\maxi-programa\switch-and-or\ciclos\ciclo-for\obj\Debug\net5.0\refint\ciclo-for.dll
+C:\Users\kratorpp\Desktop\maxi-programa\switch-and-or\ciclos\ciclo-for\obj\Debug\net5.0\ciclo-for.pdb
+C:\Users\kratorpp\Desktop\maxi-programa\switch-and-or\ciclos\ciclo-for\obj\Debug\net5.0\ciclo-for.genruntimeconfig.cache
+C:\Users\kratorpp\Desktop\maxi-programa\switch-and-or\ciclos\ciclo-for\obj\Debug\net5.0\ref\ciclo-for.dll
