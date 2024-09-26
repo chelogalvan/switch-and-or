@@ -1,0 +1,16 @@
+C:\Users\MARCHELO\Desktop\maxi_programa\curso-nivel1\ejercicios switch-and-or\ciclos\ciclo-while\bin\Debug\net5.0\ciclo-while.exe
+C:\Users\MARCHELO\Desktop\maxi_programa\curso-nivel1\ejercicios switch-and-or\ciclos\ciclo-while\bin\Debug\net5.0\ciclo-while.deps.json
+C:\Users\MARCHELO\Desktop\maxi_programa\curso-nivel1\ejercicios switch-and-or\ciclos\ciclo-while\bin\Debug\net5.0\ciclo-while.runtimeconfig.json
+C:\Users\MARCHELO\Desktop\maxi_programa\curso-nivel1\ejercicios switch-and-or\ciclos\ciclo-while\bin\Debug\net5.0\ciclo-while.runtimeconfig.dev.json
+C:\Users\MARCHELO\Desktop\maxi_programa\curso-nivel1\ejercicios switch-and-or\ciclos\ciclo-while\bin\Debug\net5.0\ciclo-while.dll
+C:\Users\MARCHELO\Desktop\maxi_programa\curso-nivel1\ejercicios switch-and-or\ciclos\ciclo-while\bin\Debug\net5.0\ciclo-while.pdb
+C:\Users\MARCHELO\Desktop\maxi_programa\curso-nivel1\ejercicios switch-and-or\ciclos\ciclo-while\obj\Debug\net5.0\ciclo-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCHELO\Desktop\maxi_programa\curso-nivel1\ejercicios switch-and-or\ciclos\ciclo-while\obj\Debug\net5.0\ciclo-while.AssemblyInfoInputs.cache
+C:\Users\MARCHELO\Desktop\maxi_programa\curso-nivel1\ejercicios switch-and-or\ciclos\ciclo-while\obj\Debug\net5.0\ciclo-while.AssemblyInfo.cs
+C:\Users\MARCHELO\Desktop\maxi_programa\curso-nivel1\ejercicios switch-and-or\ciclos\ciclo-while\obj\Debug\net5.0\ciclo-while.csproj.CoreCompileInputs.cache
+C:\Users\MARCHELO\Desktop\maxi_programa\curso-nivel1\ejercicios switch-and-or\ciclos\ciclo-while\obj\Debug\net5.0\ciclo-while.sourcelink.json
+C:\Users\MARCHELO\Desktop\maxi_programa\curso-nivel1\ejercicios switch-and-or\ciclos\ciclo-while\obj\Debug\net5.0\ciclo-while.dll
+C:\Users\MARCHELO\Desktop\maxi_programa\curso-nivel1\ejercicios switch-and-or\ciclos\ciclo-while\obj\Debug\net5.0\refint\ciclo-while.dll
+C:\Users\MARCHELO\Desktop\maxi_programa\curso-nivel1\ejercicios switch-and-or\ciclos\ciclo-while\obj\Debug\net5.0\ciclo-while.pdb
+C:\Users\MARCHELO\Desktop\maxi_programa\curso-nivel1\ejercicios switch-and-or\ciclos\ciclo-while\obj\Debug\net5.0\ciclo-while.genruntimeconfig.cache
+C:\Users\MARCHELO\Desktop\maxi_programa\curso-nivel1\ejercicios switch-and-or\ciclos\ciclo-while\obj\Debug\net5.0\ref\ciclo-while.dll
